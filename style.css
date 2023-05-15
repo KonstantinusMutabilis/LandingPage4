@@ -13,7 +13,9 @@
 
 h1 {
     font-family: 'Satisfy', cursive;
+    font-weight: 400;
     font-size: 6rem;
+    text-shadow: 8px 8px 20px black;
     padding: 10px;
     letter-spacing: 20px;
     text-align: center;
